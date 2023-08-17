@@ -59,7 +59,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Mrbossna/Mrbossna/output/snake.svg" alt="Snake animation" />
-
-###
