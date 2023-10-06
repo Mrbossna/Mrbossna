@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">BOSS 👾</h1>
+<h1 align="center">BOSS </h1>
 
 ###
 
