@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🧑 My name’s Paradon Sa-nguanrat<br><br>- 💨 Speak Thai, English<br>- 📚 I'm currently learning English and react.</p>
+<p align="left">🧑 My name’s Paradon Sa-nguanrat<br><br>- 💨 Speak Thai, English<br>- 📚 I'm currently learning English and vue.js </p>
 
 ###
 
